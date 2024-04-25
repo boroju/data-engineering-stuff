@@ -1,0 +1,6 @@
+id,name,age,salary,bonus,gender,address_city,dep_id
+1,Mary,25,1000,,Female,Tarragona,1
+2,John,51,900,300,Male,Barcelona,2
+3,Peter,34,1500,,Male,Barcelona,2
+4,Ann,42,2300,250,Female,Barcelona,3
+5,Lisa,33,1700,,Female,Tarragona,3

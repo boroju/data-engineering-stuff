@@ -1,0 +1,5 @@
+id,name,location,budget_last_year,budget_this_year,mgr_id
+1,HR,Tarragona,10,12,1
+2,Sales,Barcelona,20,25,2
+3,BI,Barcelona,,7,5
+4,R+D,Barcelona,5,10,

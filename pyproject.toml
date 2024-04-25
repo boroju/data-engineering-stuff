@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "data-engineering-stuff"
+version = "1.0.0"
+description = "Playing with Data Engineering Stuff."
+authors = ["Julian Boronat <boronat.j.e@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4"
+pyspark = "^3.5.1"
+pandas = "^2.2.2"
+requests = "^2.31.0"
+pytest = "^8.1.1"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
